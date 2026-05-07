@@ -12,7 +12,7 @@ A macOS controller app for the [Gecho Loopsynth v1](https://gechologic.com/v1/) 
 - Xcode 14 or later (to build from source)
 - Gecho Loopsynth **v1 hardware**
 - Gecho firmware **v0.244** (other versions may work but are untested)
-- CH340G USB driver (usually installs automatically on macOS — see [Connection](#connection) below)
+- CH340G USB driver (usually installs automatically on macOS
 - Optional: any USB or Bluetooth MIDI keyboard for live play and chord input
 
 ---
