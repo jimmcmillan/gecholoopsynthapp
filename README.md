@@ -286,7 +286,7 @@ A selection of useful channels. Enter these in the Channel field and press Send.
 | `4112` | Canon in D by Pachelbel |
 | `4321` | Reset all user settings to default |
 
-For the full channel list refer to the [Gecho v1 Manual](https://gechologic.com/v1/).
+For the full channel list refer to the [Gecho v1 Manual](https://gechologic.com/manual_v244).
 
 ---
 
