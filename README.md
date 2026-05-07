@@ -2,7 +2,7 @@
 
 A macOS controller app for the [Gecho Loopsynth v1](https://gechologic.com/v1/) synthesiser by Mario at Gechologic. Built with SwiftUI, this app provides a full serial interface to the Gecho over USB, including MIDI keyboard integration for real-time note playing and chord building.
 
-![GechoController Screenshot](screenshot.png)
+![GechoController Screenshot](images/ScreenshotGechoLoopsynthAppMacOSv1.png)
 
 ---
 
