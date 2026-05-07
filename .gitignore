@@ -1,0 +1,31 @@
+# Xcode user data
+xcuserdata/
+*.xcuserstate
+*.xccheckout
+*.moved-aside
+
+# Derived data
+DerivedData/
+build/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Archives
+*.xcarchive
+
+# Signing
+*.p12
+*.mobileprovision
+*.provisionprofile
+*.cer
+*.certSigningRequest
+
+# Swift Package Manager
+.build/
+.swiftpm/
+
+# Logs
+*.log
