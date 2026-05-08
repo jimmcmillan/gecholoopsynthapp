@@ -8,7 +8,7 @@ A macOS controller app for the [Gecho Loopsynth v1](https://gechologic.com/v1/) 
 
 ## Requirements
 
-- macOS 12.0 or later
+- macOS 26.3 or later
 - Xcode 14 or later (to build from source)
 - Gecho Loopsynth **v1 hardware**
 - Gecho firmware **v0.244** (other versions may work but are untested)
